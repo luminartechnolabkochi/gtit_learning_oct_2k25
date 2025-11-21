@@ -10,3 +10,5 @@
 >git log [command for listing commit history]
 
 >git remote add name remote_path
+
+>git remote -v [list all remotes]
