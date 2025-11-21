@@ -4,3 +4,6 @@
 >git config --global user.email "useremail@gmail.com" [command for adding user email]
 >git init [initializing git in present working directory]
 >git status [list all untracked files]
+>git add -A [commad for addimg all untracked files to staging area]
+>git commit -m "commit message" [adding staged files to local repository]
+>git log [command for listing commit history]
