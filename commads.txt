@@ -12,3 +12,5 @@
 >git remote add name remote_path
 
 >git remote -v [list all remotes]
+
+>git branch [list all branches]
